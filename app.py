@@ -107,7 +107,7 @@ API_URL = "https://results.xylemlearning.com/wp-admin/admin-ajax.php"
 EXAM_CLASS = "JEE"
 EXAM_YEAR = "GIB-27SEP2026"
 
-START_ROLL = 9600000000
+START_ROLL = 9601278913 
 END_ROLL = 9699999999
 
 WORKERS = 30
